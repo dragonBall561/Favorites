@@ -1,0 +1,13 @@
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/3
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/3.deps.json
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/3.runtimeconfig.json
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/3.runtimeconfig.dev.json
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/3.dll
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/3.pdb
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.csprojAssemblyReference.cache
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.AssemblyInfoInputs.cache
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.AssemblyInfo.cs
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.csproj.CoreCompileInputs.cache
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.dll
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.pdb
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/3.genruntimeconfig.cache

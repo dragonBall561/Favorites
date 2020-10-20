@@ -1,0 +1,26 @@
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/cfg
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/cfg.deps.json
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/cfg.runtimeconfig.json
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/cfg.runtimeconfig.dev.json
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/cfg.dll
+/home/angad/Proj/3/bin/Debug/netcoreapp3.1/cfg.pdb
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.csprojAssemblyReference.cache
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.AssemblyInfoInputs.cache
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.AssemblyInfo.cs
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.csproj.CoreCompileInputs.cache
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.dll
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.pdb
+/home/angad/Proj/3/obj/Debug/netcoreapp3.1/cfg.genruntimeconfig.cache
+/home/angad/Proj/C# - Favorites/bin/Debug/netcoreapp3.1/cfg
+/home/angad/Proj/C# - Favorites/bin/Debug/netcoreapp3.1/cfg.deps.json
+/home/angad/Proj/C# - Favorites/bin/Debug/netcoreapp3.1/cfg.runtimeconfig.json
+/home/angad/Proj/C# - Favorites/bin/Debug/netcoreapp3.1/cfg.runtimeconfig.dev.json
+/home/angad/Proj/C# - Favorites/bin/Debug/netcoreapp3.1/cfg.dll
+/home/angad/Proj/C# - Favorites/bin/Debug/netcoreapp3.1/cfg.pdb
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.csprojAssemblyReference.cache
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.AssemblyInfoInputs.cache
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.AssemblyInfo.cs
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.csproj.CoreCompileInputs.cache
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.dll
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.pdb
+/home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzV5Qqf2ZAQVFcnMo5cLAPYPeMMvK0+euHoV3XAt4i1oHy1quDNzWTEO1unVTUok2jBKDIAWmD73xhx1uHgCmw==",
+  "dgSpecHash": "fFCvsk0lu0ccjOGq/Y+yn++oQk9hSdSa8abG0XHKrrCuWhA1ljTZmTipgYcx2gsp7pph/TnZnkfA+eaFZpMgVQ==",
   "success": true,
-  "projectFilePath": "/home/angad/Proj/C# - Favorites/cfg.csproj",
+  "projectFilePath": "/home/angad/Documents/GitHub/Favorites/cfg.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

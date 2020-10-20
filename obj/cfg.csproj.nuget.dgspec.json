@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/angad/Proj/C# - Favorites/cfg.csproj": {}
+    "/home/angad/Documents/GitHub/Favorites/cfg.csproj": {}
   },
   "projects": {
-    "/home/angad/Proj/C# - Favorites/cfg.csproj": {
+    "/home/angad/Documents/GitHub/Favorites/cfg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/angad/Proj/C# - Favorites/cfg.csproj",
+        "projectUniqueName": "/home/angad/Documents/GitHub/Favorites/cfg.csproj",
         "projectName": "cfg",
-        "projectPath": "/home/angad/Proj/C# - Favorites/cfg.csproj",
+        "projectPath": "/home/angad/Documents/GitHub/Favorites/cfg.csproj",
         "packagesPath": "/home/angad/.nuget/packages/",
-        "outputPath": "/home/angad/Proj/C# - Favorites/obj/",
+        "outputPath": "/home/angad/Documents/GitHub/Favorites/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/angad/.nuget/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }

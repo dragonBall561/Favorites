@@ -24,3 +24,16 @@
 /home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.dll
 /home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.pdb
 /home/angad/Proj/C# - Favorites/obj/Debug/netcoreapp3.1/cfg.genruntimeconfig.cache
+/home/angad/Documents/GitHub/Favorites/bin/Debug/netcoreapp3.1/cfg
+/home/angad/Documents/GitHub/Favorites/bin/Debug/netcoreapp3.1/cfg.deps.json
+/home/angad/Documents/GitHub/Favorites/bin/Debug/netcoreapp3.1/cfg.runtimeconfig.json
+/home/angad/Documents/GitHub/Favorites/bin/Debug/netcoreapp3.1/cfg.runtimeconfig.dev.json
+/home/angad/Documents/GitHub/Favorites/bin/Debug/netcoreapp3.1/cfg.dll
+/home/angad/Documents/GitHub/Favorites/bin/Debug/netcoreapp3.1/cfg.pdb
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.csprojAssemblyReference.cache
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.AssemblyInfoInputs.cache
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.AssemblyInfo.cs
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.csproj.CoreCompileInputs.cache
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.dll
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.pdb
+/home/angad/Documents/GitHub/Favorites/obj/Debug/netcoreapp3.1/cfg.genruntimeconfig.cache
